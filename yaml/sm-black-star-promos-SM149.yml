@@ -1,0 +1,87 @@
+---
+id: smp-SM149
+name: Suicune
+supertype: Pokémon
+subtypes:
+- Basic
+hp: '110'
+types:
+- Water
+abilities:
+- name: Frozen Current
+  text: Once during your turn (before your attack), if this Pokémon is your Active
+    Pokémon, you may have your opponent switch their Active Pokémon with 1 of their
+    Benched Pokémon.
+  type: Ability
+attacks:
+- name: Aurora Gain
+  cost:
+  - Water
+  - Colorless
+  - Colorless
+  convertedEnergyCost: 3
+  damage: '70'
+  text: Heal 30 damage from this Pokémon.
+weaknesses:
+- type: Grass
+  value: "×2"
+retreatCost:
+- Colorless
+convertedRetreatCost: 1
+set:
+  id: smp
+  name: SM Black Star Promos
+  series: Sun & Moon
+  printedTotal: 248
+  total: 250
+  legalities:
+    unlimited: Legal
+    expanded: Legal
+  ptcgoCode: PR-SM
+  releaseDate: 2017/02/03
+  updatedAt: 2020/05/01 16:06:00
+  images:
+    symbol: https://images.pokemontcg.io/smp/symbol.png
+    logo: https://images.pokemontcg.io/smp/logo.png
+number: SM149
+artist: Kouki Saitou
+rarity: Promo
+flavorText: Said to be the embodiment of north winds, it can instantly purify filthy,
+  murky water.
+nationalPokedexNumbers:
+- 245
+legalities:
+  unlimited: Legal
+  expanded: Legal
+images:
+  small: https://images.pokemontcg.io/smp/SM149.png
+  large: https://images.pokemontcg.io/smp/SM149_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/smp-SM149
+  updatedAt: 2023/09/15
+  prices:
+    holofoil:
+      low: 4.15
+      mid: 10.42
+      high: 22.99
+      market: 10.47
+      directLow: 11.46
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/smp-SM149
+  updatedAt: 2023/09/15
+  prices:
+    averageSellPrice: 17.99
+    lowPrice: 10.0
+    trendPrice: 24.74
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.0
+    reverseHoloLow: 0.0
+    reverseHoloTrend: 28.68
+    lowPriceExPlus: 17.85
+    avg1: 17.99
+    avg7: 20.49
+    avg30: 28.95
+    reverseHoloAvg1: 89.99
+    reverseHoloAvg7: 23.64
+    reverseHoloAvg30: 8.01
